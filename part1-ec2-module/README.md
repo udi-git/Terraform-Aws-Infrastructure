@@ -13,3 +13,7 @@ Refactoring flat Terraform files into reusable, parameterized local modules foll
 terraform init
 terraform plan
 terraform apply
+```
+
+## Proof of Execution
+![EC2 Module Deployment](./Ec2_Ebs_Server.png)
