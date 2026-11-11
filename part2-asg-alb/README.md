@@ -18,3 +18,6 @@ terraform init
 terraform plan
 terraform apply
 terraform destroy
+
+## Proof of Execution
+![ASG ALB Docker Verification](./docker-asg-alb.png)
