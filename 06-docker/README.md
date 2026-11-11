@@ -14,3 +14,7 @@ Automated bootstrapping of an EC2 instance running a containerized application u
 terraform init
 terraform plan
 terraform apply
+```
+
+## Proof of Execution
+![Docker Nginx Verification](./terrafrom_docker.png)
